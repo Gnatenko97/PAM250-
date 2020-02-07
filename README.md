@@ -27,3 +27,9 @@ Here is the recreated heatmap of PAM250
 
 Here is the original heatmap of PAM250
 ![GitHub Logo](/PAM250.jpg)
+
+
+
+Contributions:
+Alis Zemlo 
+Vlad Gnatenko 
