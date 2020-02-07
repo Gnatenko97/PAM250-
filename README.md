@@ -26,4 +26,4 @@ Here is the recreated heatmap of PAM250
 ![GitHub Logo](/heatmap.png)
 
 Here is the original heatmap of PAM250
-![GitHub Logo](/PAM250.jpeg)
+![GitHub Logo](/PAM250.jpg)
