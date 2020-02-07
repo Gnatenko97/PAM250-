@@ -21,3 +21,5 @@ Bacteria Stains Used
   The purpose of this program is to calculate Sij = log2(Mij/Eij), for one 
 pair of amino acids, i and j.  Sij is one value in the substitution matrix.
 Examile the heat map for Sii and Sjj with PAM250. 
+![GitHub Logo](/heatmap.png)
+Format: ![Alt Text](url)
