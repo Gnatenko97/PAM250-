@@ -1,0 +1,124 @@
+VIMSS17246         1 MYEALLVVFL-----IVAIGLVGLIMLQQGKGADMGASFGAGASATLFGS     45
+                          :::||     :|.:.|:|:::||.||||:||||||||.|.::||:
+VIMSS381923        1 -----MMIFLTFLHILVCLALIGIVLLQSGKGAEMGASFGAGGSQSVFGA     45
+
+VIMSS17246        46 SGSGNFMTRMTALLATLFFIISLVLGNINSN-KTNKGSEWENLSA-----     89
+                     ||...|::::|...|.:|.:.||.|..::.. :|:.....:.:||     
+VIMSS381923       46 SGGTTFLSKLTTAAAIIFMLTSLTLAYLSGRAETSSIMPAKGVSAPAPKP     95
+
+VIMSS17246        90 ---PAKTEQTQPAAPAKPTSDIPN----    110
+                        ||:.:|||| |||:|....|.    
+VIMSS381923       96 AAPPAQPQQTQP-APAQPAVPAPAAPAK    122
+
+VIMSS17246         1 --MYEALLVVFLIVAIGLVGLIMLQQGKGADMGASFGAGASATLFG-SSG     47
+                       :...::.:..::|:.|:.:|:||.||.|.:..:. ||.:.|.|| ..|
+VIMSS1366109       1 MLLKSIVMGIHALIALALIAVILLQSGKSAGLSGAI-AGGAETFFGKKKG     49
+
+VIMSS17246        48 SGNFMTRMTALLATLFFIISLVLGNINSNKTNKGSEWENLSAPAKTEQTQ     97
+                     ...|..::|.:||.:|.::|:||           :.|:            
+VIMSS1366109      50 LDQFFGKVTVVLAVIFGLLSVVL-----------TVWK------------     76
+
+VIMSS17246        98 PAAPAKPTSDIPN    110
+                                  
+VIMSS1366109      77 -------------     76
+
+VIMSS17246         1 -MYEALLVVFLIVAIGLVGLIMLQQGKGADMGASFGAGASATLFGSSGSG     49
+                      ::..|:||..:||..||.:|::||.:|:.:......|.   |..:||:.
+VIMSS957243        1 MLFTILIVVQALVAAALVTVILMQQSEGSGITGGLNPGG---LMSASGAA     47
+
+VIMSS17246        50 NFMTRMTALLATLFFIISLVLGNINSNKTNKGSEWENLSAPAKTEQTQPA     99
+                     ||:||.|..||.||.::|:.|..:.|.:........:|:.....:||.||
+VIMSS957243       48 NFLTRATGALAVLFVVLSIALAALASVQNTAPQIDTSLAHKPVAQQTAPA     97
+
+VIMSS17246       100 APAKP-TSDIPN----------    110
+                     .||:| .|.:|.          
+VIMSS957243       98 QPAQPKPSSVPLADQPATTPHQ    119
+
+VIMSS17246         1 MYEALLVVFLIVAIGLVGLIMLQQGKGADMGASFGAGASATLFG---SSG     47
+                     |:..|:.:.:||:|.|:.:::||..|.|.:..:...||. .|||   :.|
+VIMSS39902         1 MHAVLITLLVIVSIALIIVVLLQSSKSAGLSGAISGGAE-QLFGKQKARG     49
+
+VIMSS17246        48 SGNFMTRMTALLATLFFIISLVLGNINSNKTNKGSEWENLSAPAKTEQTQ     97
+                     ....:.|:|.:||.|||::::.|..|.                       
+VIMSS39902        50 LDLILHRITVVLAVLFFVLTIALAYIL-----------------------     76
+
+VIMSS17246        98 PAAPAKPTSDIPN    110
+                                  
+VIMSS39902        77 -------------     76
+
+VIMSS381923        1 --MMIFLTFLHILVCLALIGIVLLQSGKGAEMGASFGAGGSQSVFGASGG     48
+                       :...:..:|.|:.||||.::||||||.|.:..:. |||:::.||...|
+VIMSS1366109       1 MLLKSIVMGIHALIALALIAVILLQSGKSAGLSGAI-AGGAETFFGKKKG     49
+
+VIMSS381923       49 -TTFLSKLTTAAAIIFMLTSLTLAYLSGRAETSSIMPAKGVSAPAPKPAA     97
+                      ..|..|:|...|:||.|.|:.|....                       
+VIMSS1366109      50 LDQFFGKVTVVLAVIFGLLSVVLTVWK-----------------------     76
+
+VIMSS381923       98 PPAQPQQTQPAPAQPAVPAPAAPAK    122
+                                              
+VIMSS1366109      77 -------------------------     76
+
+VIMSS381923        1 MMIF--LTFLHILVCLALIGIVLLQSGKGAEMGASFGAGGSQSVFGASGG     48
+                      |:|  |..:..||..||:.::|:|..:|:.:......||..|   |||.
+VIMSS957243        1 -MLFTILIVVQALVAAALVTVILMQQSEGSGITGGLNPGGLMS---ASGA     46
+
+VIMSS381923       49 TTFLSKLTTAAAIIFMLTSLTLAYLSGRAETSSIMPAKGVSAPAPKPAAP     98
+                     ..||::.|.|.|::|::.|:.||.|   |...:..|....|. |.||.| 
+VIMSS957243       47 ANFLTRATGALAVLFVVLSIALAAL---ASVQNTAPQIDTSL-AHKPVA-     91
+
+VIMSS381923       99 PAQPQQTQPAPAQPAVPAPAA------PAK----    122
+                         |||  ||||||.|.|::      ||.    
+VIMSS957243       92 ----QQT--APAQPAQPKPSSVPLADQPATTPHQ    119
+
+VIMSS381923        1 MMIFLTFLHILVCLALIGIVLLQSGKGAEMGASFGAGGSQSVFG---ASG     47
+                     |...|..|.::|.:|||.:|||||.|.|.:..:. :||::.:||   |.|
+VIMSS39902         1 MHAVLITLLVIVSIALIIVVLLQSSKSAGLSGAI-SGGAEQLFGKQKARG     49
+
+VIMSS381923       48 GTTFLSKLTTAAAIIFMLTSLTLAYLSGRAETSSIMPAKGVSAPAPKPAA     97
+                     ....|.::|...|::|.:.::.|||:.                       
+VIMSS39902        50 LDLILHRITVVLAVLFFVLTIALAYIL-----------------------     76
+
+VIMSS381923       98 PPAQPQQTQPAPAQPAVPAPAAPAK    122
+                                              
+VIMSS39902        77 -------------------------     76
+
+VIMSS1366109       1 MLLKSIVMGIHALIALALIAVILLQSGKSAGLSGAIAGGAETFFGKKKGL     50
+                      :|.:|::.:.||:|.||:.|||:|..:.:|::|.:..|.   .....|.
+VIMSS957243        1 -MLFTILIVVQALVAAALVTVILMQQSEGSGITGGLNPGG---LMSASGA     46
+
+VIMSS1366109      51 DQFFGKVTVVLAVIFGLLSVVLTVWK------------------------     76
+                     ..|..:.|..|||:|.:||:.|....                        
+VIMSS957243       47 ANFLTRATGALAVLFVVLSIALAALASVQNTAPQIDTSLAHKPVAQQTAP     96
+
+VIMSS1366109      77 -----------------------     76
+                                            
+VIMSS957243       97 AQPAQPKPSSVPLADQPATTPHQ    119
+
+VIMSS1366109       1 MLLKSIVMGIHALIALALIAVILLQSGKSAGLSGAIAGGAETFFGKKK--     48
+                       :.::::.:..::::|||.|:||||.|||||||||:||||..|||:|  
+VIMSS39902         1 --MHAVLITLLVIVSIALIIVVLLQSSKSAGLSGAISGGAEQLFGKQKAR     48
+
+VIMSS1366109      49 GLDQFFGKVTVVLAVIFGLLSVVLTVWK     76
+                     |||....::||||||:|.:|::.|....
+VIMSS39902        49 GLDLILHRITVVLAVLFFVLTIALAYIL     76
+
+VIMSS957243        1 MLFTILIVVQALVAAALVTVILMQQSEGSGITGGLNPG-----GLMSASG     45
+                      :..:||.:..:|:.||:.|:|:|.|:.:|::|.::.|     |...|.|
+VIMSS39902         1 -MHAVLITLLVIVSIALIIVVLLQSSKSAGLSGAISGGAEQLFGKQKARG     49
+
+VIMSS957243       46 AANFLTRATGALAVLFVVLSIALAALASVQNTAPQIDTSLAHKPVAQQTA     95
+                     ....|.|.|..|||||.||:||||.:.                       
+VIMSS39902        50 LDLILHRITVVLAVLFFVLTIALAYIL-----------------------     76
+
+VIMSS957243       96 PAQPAQPKPSSVPLADQPATTPHQ    119
+                                             
+VIMSS39902        77 ------------------------     76
+
+
+
+
+
+
+
+
+
